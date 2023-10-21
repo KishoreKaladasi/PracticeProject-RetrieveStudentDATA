@@ -1,0 +1,7 @@
+Student Details :
+Student Id : 101
+Student Name : Micheal
+Student adress : Texas ,America
+Student adress : Maths , English
+Marks On regarded courses : Maths - 98/100 , English - 95/100
+HE IS TOPPER
